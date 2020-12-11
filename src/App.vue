@@ -37,7 +37,7 @@ body {
 
 </style>
 
-<style scoped>
+<style>
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
